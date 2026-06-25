@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tushar Singh Chouhan
 
-🚀 **Backend Developer | Web & App Engineer**
+🚀 **Backend Developer | Web3 **
 
 ---
 

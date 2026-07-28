@@ -12,7 +12,9 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushar598&theme=dracula&row=1&column=6&no-frame=true&no-bg=true" alt="tushar598 trophies"/>
+
+![tushar598 trophies](https://github-profile-trophy.vercel.app/?username=tushar598&theme=dracula&row=1&column=6&no-frame=true&no-bg=true)
+
 </div>
 
 ---
@@ -29,13 +31,17 @@
 
 ### 📊 GitHub Stats & Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar598&show_icons=true&theme=dracula" alt="tushar598's github stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar598&theme=dracula" alt="tushar598's github streak" width="48%"/>
+  
+![tushar598's github stats](https://github-readme-stats.vercel.app/api?username=tushar598&show_icons=true&theme=dracula)
+![tushar598's github streak](https://streak-stats.demolab.com/?user=tushar598&theme=dracula)
+
 </div>
 
 ### 📈 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar598&layout=compact&theme=dracula" alt="Top Languages" width="48%"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar598&layout=compact&theme=dracula)
+
 </div>
 
 ---

@@ -1,11 +1,23 @@
-# 👋 Hi, I'm Tushar Singh Chouhan
+<!-- Capsule Render Dynamic Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=250&section=header&text=Hi,%20I'm%20Tushar%20Singh%20Chouhan&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-🚀 **Backend Developer | Web3**
+<div align="center">
+  <!-- Dynamic Visitor Badge -->
+  <img src="https://api.visitorbadge.io/api/visitors?path=tushar598.tushar598&countColor=%23FF79C6" alt="visitor badge"/>
+  
+  <h3>🚀 Backend Developer | Web3</h3>
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tushar598&theme=dracula&row=1&column=6&no-frame=true&no-bg=true" alt="tushar598 trophies"/>
+</div>
 
+---
+
+### 🧑‍💻 About Me
 - 🔧 Backend Developer building **scalable web & app solutions**
 - 🌐 Working across **Web2 & Web3 ecosystems**
 - 🏗️ Build enterprise-grade & client-focused applications
@@ -15,50 +27,44 @@
 
 ---
 
-## 🌐 Tech Stack
+### 📊 GitHub Stats & Streak
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar598&show_icons=true&theme=dracula" alt="tushar598's github stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar598&theme=dracula" alt="tushar598's github streak" width="48%"/>
+</div>
 
-### 🚀 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 📈 Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar598&layout=compact&theme=dracula" alt="Top Languages" width="48%"/>
+</div>
+
+---
+
+### 🌐 Tech Stack
+**Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧠 Systems & Low-Level
+**Systems & Low-Level**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Hackathon **Winner**
-- 🥈 Hackathon **Runner-Up**
-- 💡 Built multiple real-world & prototype applications
-- 🚀 Delivered production-ready client projects
-
----
-
-## 📌 What I Do
-
-- Design & develop **robust backend systems**
-- Build **full-stack web & app solutions**
-- Work on **client & startup projects**
-- Participate in **hackathons & tech events**
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-singh-chouhan19/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tushar1962005)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tushar_singh._chouhan_/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tushar19chouhan/)
-
----
-
-⚡ *Code. Build. Compete. Improve.*
+### 📫 Connect With Me
+<div align="center">
+  <a href="https://linkedin.com/in/tushar-singh-chouhan19"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/tushar1962005"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://leetcode.com/u/tushar19chouhan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+</div>
+<br>
+<div align="center">
+  <em>⚡ Code. Build. Compete. Improve. ⚡</em>
+</div>

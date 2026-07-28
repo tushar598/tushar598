@@ -14,12 +14,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - uses: denoland/setup-deno@v2
         with:
-          username: tushar598
-          output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          deno-version: v1.x
+
+      - name: Clone the official trophy generator
+        run: git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git trophy-src
+
+      - name: Generate trophy.svg
+        working-directory: trophy-src
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN2: ${{ secrets.GITHUB_TOKEN }}
+        run: deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts tushar598 ../trophy.svg dracula
 
       - name: Commit and push trophy.svg
         uses: stefanzweifel/git-auto-commit-action@v5

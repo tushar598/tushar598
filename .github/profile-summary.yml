@@ -1,0 +1,26 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"       # once a day
+  workflow_dispatch:           # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Create a PAT (classic: public_repo + read:user scopes, or fine-grained:
+          # "Public repositories (read-only)") and save it as a repo secret
+          # named SUMMARY_GITHUB_TOKEN — Settings → Secrets and variables → Actions
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: tushar598
+          BRANCH_NAME: "main"
+          THEME: "dracula"       # matches the theme used elsewhere in the README

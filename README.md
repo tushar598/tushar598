@@ -19,10 +19,9 @@
 
 <div align="center">
 
-![tushar598 trophies](https://github-profile-trophy.vercel.app/?username=tushar598&theme=dracula&row=1&column=6&no-frame=true&no-bg=true)
+![tushar598 trophies](https://raw.githubusercontent.com/tushar598/tushar598/main/trophy.svg?v=2)
 
 </div>
-
 ---
 
 ### 🧑‍💻 About Me
